@@ -114,6 +114,8 @@ select Canceled, count(Canceled) as [Subscriptions] from [dbo].[CustomerData] gr
 
 ### Power BI
 The Power BI was used to create an interactive dashboard that visualizes key customer segments, cancellations, and subscription trends. Slicers for region and subscription type were also included for interactive analysis. The dashboard provides an overview of  customer behavior across different regions, highlighting total revenue, number of active and canceled subscriptions, average subscription date, etc. Some visuals used were a Bar Chart, Line Chart, Pie Chart, and Visual Card.
-![Screenshot (26)](https://github.com/user-attachments/assets/c1f7dc2b-7971-4e0b-a7c2-a37b2a551449)
+
+![PBI 2(1)(1)](https://github.com/user-attachments/assets/477dcc24-3d27-42cd-b8b0-2989ead66c1d)
+
 
 
