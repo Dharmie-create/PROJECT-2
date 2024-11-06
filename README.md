@@ -11,7 +11,11 @@ Customer Data Project 2
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
+[Insights Generation](#insights-generation)
 
+[Conclusions](#conclusions)
+
+[Recommendations](#recommendations)
 
 ## Project Overview
 This data analysis project aims to understand customer behavior, track subscription types, and identify key trends in cancelations and renewals by analyzing customer data for a subscription service to identify segments and trends. By analyzing the various parameters in the data received, we seek to  gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data. More so, we can figure out what is working, what is not working, and what should be focused on.
@@ -133,3 +137,31 @@ The Power BI was used to create an interactive dashboard that visualizes key cus
 
 
 ## Insights Generation
+- Basic subscription type contributed the highest revenue, followed by Premium and Standard.
+- The East and North regions primarily used the basic subscription type. The south region uses the Premium subscription type while the West region uses the standard subscription type.
+- The highest number of customers subscribe to the Basic plan, followed by Premium and then Standard, aligning with the revenue distribution across these types.
+- East generated the highest revenue, followed by South, West, and North.
+- The East region has the highest customer count, followed by South, West, and North, which mirrors the revenue pattern
+- East has no canceled subscriptions, suggesting strong customer retention.
+- North, South, and West have more canceled subscriptions than active ones, indicating potential issues in these regions.
+- 2022 had more active subscriptions while 2023 saw an increase in canceled subscriptions surpassing the active ones.
+- July and February 2022 had more customers compared to July and February 2023.
+- August showed the opposite, with fewer customers in August 2023 compared to August 2023.
+
+## CONCLUSIONS
+- The Basic subscription type is the most popular type generating the highest revenue and customer base, suggesting it meets a broad range of customer needs.
+- The East region is the most significant market, both in terms of revenue and customer count, with strong customer loyalty as evidenced by no cancellations.
+- Other regions face higher cancellation rates than active subscriptions, indicating a need to address customer satisfaction or retention issues.
+- The increase in cancellations in 2023 suggests a possible shift in customer satisfaction or market condition that impacted retention, especially given the cancellation trend in the North, South, and West regions.
+- The decline in customer counts in July and February 2023 indicates a seasonal lull or market shift while August indicates possible seasonal or promotional factors that contributed to higher subscriptions.
+
+## RECOMMENDATIONS
+- Conduct surveys or gather feedback to understand why cancelations are higher in the North, West, and South regions, identifying any issues with service quality, pricing or value, or maybe the subscription type.
+- Implement loyalty programs or rewards for long-term subscribers to incentivize retention.
+- Offer retention-focused discounts for subscribers in regions with high cancellation rates, particularly during periods with historically low customer activity.
+- Consider introducing add-on benefits to the Basic subscriptions to further increase its value and appeal, especially in the East and North where it is already widely used.
+- Encourage basic subscribers to explore premium features by offering limited-time upgrades or trials to the Premium plan.
+- Investigate the factors driving higher cancelations in 2023. Use insights to adjust service or pricing to meet evolving customer needs.
+- To sustain customer growth in challenging months like February and July, introduce specific campaigns or discounts to attract new customers and retain existing ones.
+- Continue to monitor and maintain the East region’s high customer retention with ongoing customer satisfaction initiatives.
+- Consider expanding customer acquisition efforts in South and North, potentially by refining the Standard and Premium subscription options to meet regional preferences more closely.
