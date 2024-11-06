@@ -63,7 +63,6 @@ The dataset for this analysis was provided by LITA Incubator Hub, an initiative 
       
 3. **Data Transformation**
 - Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to date format.
-- **Created New column:** A new column was added to calculate the revenue generated for each product sold per transaction by multiplying the quantity sold by the unit price.
 
 
 ## Exploratory Data Analysis 
@@ -133,3 +132,4 @@ The Power BI was used to create an interactive dashboard that visualizes key cus
 
 
 
+## Insights Generation
