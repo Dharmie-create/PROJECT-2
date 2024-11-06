@@ -2,6 +2,17 @@
 Customer Data Project 2
 # Project Title: Customer Segmentation for a Subscription Service 
 
+## Outline
+[Project Overview](#project-overview)
+
+[Data Description](#data-description)
+
+[ Methodology](#methodology)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+
+
 ## Project Overview
 This data analysis project aims to understand customer behavior, track subscription types, and identify key trends in cancelations and renewals by analyzing customer data for a subscription service to identify segments and trends. By analyzing the various parameters in the data received, we seek to  gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data. More so, we can figure out what is working, what is not working, and what should be focused on.
 
