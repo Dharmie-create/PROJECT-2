@@ -148,14 +148,14 @@ The Power BI was used to create an interactive dashboard that visualizes key cus
 - July and February 2022 had more customers compared to July and February 2023.
 - August showed the opposite, with fewer customers in August 2023 compared to August 2023.
 
-## CONCLUSIONS
+## Conclusions
 - The Basic subscription type is the most popular type generating the highest revenue and customer base, suggesting it meets a broad range of customer needs.
 - The East region is the most significant market, both in terms of revenue and customer count, with strong customer loyalty as evidenced by no cancellations.
 - Other regions face higher cancellation rates than active subscriptions, indicating a need to address customer satisfaction or retention issues.
 - The increase in cancellations in 2023 suggests a possible shift in customer satisfaction or market condition that impacted retention, especially given the cancellation trend in the North, South, and West regions.
 - The decline in customer counts in July and February 2023 indicates a seasonal lull or market shift while August indicates possible seasonal or promotional factors that contributed to higher subscriptions.
 
-## RECOMMENDATIONS
+## Recommendations
 - Conduct surveys or gather feedback to understand why cancelations are higher in the North, West, and South regions, identifying any issues with service quality, pricing or value, or maybe the subscription type.
 - Implement loyalty programs or rewards for long-term subscribers to incentivize retention.
 - Offer retention-focused discounts for subscribers in regions with high cancellation rates, particularly during periods with historically low customer activity.
