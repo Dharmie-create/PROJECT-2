@@ -71,6 +71,9 @@ The dataset for this analysis was provided by LITA Incubator Hub, an initiative 
 ### Excel
 The pivot table in Excel was used to summarize and analyze the dataset to generate some interesting reports.
 
+![PIVOT TABLES (EXCEL)](https://github.com/user-attachments/assets/dc27df95-8823-47cc-8610-b2638a6ac973)
+
+
 ### SQL
 Some SQL queries were written to extract key insights from the data. The goal was to analyze customer data for the subscription service and identify segments and trends. They are:
 - retrieve the total number of customers from each region.
