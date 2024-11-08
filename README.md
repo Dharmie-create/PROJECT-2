@@ -178,3 +178,5 @@ The Power BI was used to create an interactive dashboard that visualizes key cus
 - To sustain customer growth in challenging months like February and July, introduce specific campaigns or discounts to attract new customers and retain existing ones.
 - Continue to monitor and maintain the East region’s high customer retention with ongoing customer satisfaction initiatives.
 - Consider expanding customer acquisition efforts in South and North, potentially by refining the Standard and Premium subscription options to meet regional preferences more closely.
+
+## THANK YOU
