@@ -73,7 +73,7 @@ The dataset for this analysis was provided by LITA Incubator Hub, an initiative 
 
 ## Dashboard Overview
 
-![PBI 2](https://github.com/user-attachments/assets/72ccc34b-9eb5-44eb-8d12-e2fe4359c38c)
+![POWER BI 2](https://github.com/user-attachments/assets/5719c565-ed20-4b37-b7d2-3df7297b2d94)
 
 
 ## Exploratory Data Analysis 
