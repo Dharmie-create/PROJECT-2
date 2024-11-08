@@ -9,6 +9,8 @@ Customer Data Project 2
 
 [ Methodology](#methodology)
 
+[Dashboard Overview](#dashboard-overview)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Insights Generation](#insights-generation)
@@ -67,6 +69,11 @@ The dataset for this analysis was provided by LITA Incubator Hub, an initiative 
       
 3. **Data Transformation**
 - Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to date format.
+
+
+## Dashboard Overview
+
+![PBI 2](https://github.com/user-attachments/assets/72ccc34b-9eb5-44eb-8d12-e2fe4359c38c)
 
 
 ## Exploratory Data Analysis 
